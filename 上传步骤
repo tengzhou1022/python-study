@@ -1,0 +1,3 @@
+ git add *  #（要上传的文件）
+ git commit -m "first commit"#"上传说明"
+ git push -u orgin masteri#将本地的master分支推送到origin主机
